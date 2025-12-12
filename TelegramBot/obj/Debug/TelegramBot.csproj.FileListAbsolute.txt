@@ -1,0 +1,7 @@
+C:\Users\Rex\Desktop\c#\projekte\TelegramBot\bin\Debug\TelegramBot.exe.config
+C:\Users\Rex\Desktop\c#\projekte\TelegramBot\bin\Debug\TelegramBot.exe
+C:\Users\Rex\Desktop\c#\projekte\TelegramBot\bin\Debug\TelegramBot.pdb
+C:\Users\Rex\Desktop\c#\projekte\TelegramBot\obj\Debug\TelegramBot.csproj.AssemblyReference.cache
+C:\Users\Rex\Desktop\c#\projekte\TelegramBot\obj\Debug\TelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\Rex\Desktop\c#\projekte\TelegramBot\obj\Debug\TelegramBot.exe
+C:\Users\Rex\Desktop\c#\projekte\TelegramBot\obj\Debug\TelegramBot.pdb
